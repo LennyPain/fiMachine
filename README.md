@@ -1,2 +1,2 @@
 # fiMachine
-working on ideas
+working on ideas (or more likely, NOT working on ideas)
